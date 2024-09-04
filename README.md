@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BEENODSHAH
 - 👀 I’m interested in game developing and Ai Arts
 - 🌱 I’m currently studying in grade 11
-- 😄 follow meon intagram for unique ai arts
+- 😄 follow me on intagram for unique ai arts
 - facebook id;introvert
 
 <!---
