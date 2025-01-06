@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harishnakar sah
+- 👋 Hi, I’m @Harishanakar sah
 - 👀 I’m a web designer
 - Ai artist
 
