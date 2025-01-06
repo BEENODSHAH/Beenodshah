@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @BEENODSHAH
-- 👀 I’m interested in game developing and Ai Arts
-- 🌱 I’m currently studying in grade 11
-- 😄 follow me on intagram for unique ai arts
-- facebook id;introvert
+- 👋 Hi, I’m @Harishnakar sah
+- 👀 I’m a web designer
+- Ai artist
 
 <!---
 BEENODSHAH/BEENODSHAH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
